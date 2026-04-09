@@ -18,3 +18,7 @@
   
 </div>
 
+<div>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Gregory-Santos&theme=dracula"/>
+</div>
+
