@@ -1,4 +1,4 @@
-<img src="[https://drive.google.com/file/d/15mUJyfJNjmHpH15WwTmBLIAMo-DAE0KC/view?usp=drive_link](https://drive.google.com/file/d/15mUJyfJNjmHpH15WwTmBLIAMo-DAE0KC/view?usp=sharing)" width="300" alt="Texto sobre Gregory">
+<img src="https://drive.google.com/file/d/15mUJyfJNjmHpH15WwTmBLIAMo-DAE0KC/view?usp=drive_link" width="300" alt="Texto sobre Gregory">
 <h1>Opa, tudo certo? Eu sou o Gregory! 👋🏼</h1>
 
 <h4>👨🏻‍💻 Cursando Front-End pelo Entra21</h4>
