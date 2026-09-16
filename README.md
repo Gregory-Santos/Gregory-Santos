@@ -1,5 +1,6 @@
-<img src="/img/banner-perfis.png" width="300" alt="Texto sobre Gregory">
-<h1>Opa, tudo certo? Eu sou o Gregory! 👋🏼</h1>
+<img width="1584" height="396" alt="banner-perfis" src="https://github.com/user-attachments/assets/fe4e21e8-7561-46fa-b598-e3baa91459fd" />
+
+<h1>Olá, tudo certo? Eu sou o Gregory! 👋🏼</h1>
 
 <h4>👨🏻‍💻 Cursando Front-End pelo Entra21</h4>
 
