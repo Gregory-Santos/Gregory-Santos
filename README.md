@@ -1,9 +1,7 @@
-<img width="1584" height="396" alt="banner-perfis" src="https://github.com/user-attachments/assets/313e4a28-64df-4b3e-ba45-a5957f3b2796" />
+<img src="/img/banner-perfis.png" width="300" alt="Texto sobre Gregory">
 <h1>Opa, tudo certo? Eu sou o Gregory! 👋🏼</h1>
 
 <h4>👨🏻‍💻 Cursando Front-End pelo Entra21</h4>
-<h4>🏫 Cursando o 2º ano do Ensino Médio</h4>
-<h4>🎸 Toco contrabaixo</h4>
 
 <br>
 
@@ -28,10 +26,7 @@
   <a href="https://www.linkedin.com/in/gregory-santos-339444404" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-%230A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
+  <div>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Gregory-Santos&theme=dark"/>
 </div>
-
-<br>
-
-<div>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Gregory-Santos&theme=dracula"/>
 </div>
