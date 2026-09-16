@@ -1,8 +1,8 @@
-<img width="1584" height="396" alt="banner-perfis" src="https://github.com/user-attachments/assets/fe4e21e8-7561-46fa-b598-e3baa91459fd" />
+<img width="1584" height="396" alt="banner-perfis" src="https://github.com/user-attachments/assets/421bf1a4-8932-4d54-a640-4f22f49a99c9" />
 
-<h1>Olá, tudo certo? Eu sou o Gregory! 👋🏼</h1>
+>Estudante do 2º ano do Ensino Médio e aluno do programa Entra21, com formação em desenvolvimento Front-End. Tenho conhecimentos em HTML, CSS, JavaScript, TypeScript e Angular, além de Git e fundamentos de UX e acessibilidade.
 
-<h4>👨🏻‍💻 Cursando Front-End pelo Entra21</h4>
+>Busco minha primeira oportunidade profissional na área de tecnologia, onde possa aplicar meus conhecimentos, desenvolver novas habilidades e crescer profissionalmente. Sou comunicativo, dedicado, responsável e guiado por bons princípios. Gosto de trabalhar em equipe, aprender com outras pessoas e contribuir para um bom ambiente de trabalho.
 
 <br>
 
