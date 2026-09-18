@@ -28,4 +28,4 @@
 
 </div> <br>
 
-<div align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/demo/preview.php?user=&theme=prussian&hide_border=falso&short_numbers=falso&exclude_days=Tue" alt="GitHub Streak Stats" /> </div> <br>
+<div align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/demo/preview.php?user=Gregory-Santos&theme=prussian&hide_border=falso&short_numbers=falso&exclude_days=Tue" alt="GitHub Streak Stats" /> </div> <br>
